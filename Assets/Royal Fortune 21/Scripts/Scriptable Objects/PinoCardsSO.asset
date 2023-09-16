@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4cdc2be0c94495489a9c046c8d17a2b, type: 3}
+  m_Name: PinoCardsSO
+  m_EditorClassIdentifier: 
+  Cards:
+  - Card: {fileID: 8962439439928203966, guid: 15a9fa7b353a9e54db7749ff4212b873, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 8700320321842129640, guid: bdbe92546e7c2b34f8190106aa9fb6da, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 2130958940560457839, guid: 1cd480e8be50ddf40ab6cc624a666ed8, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 1282059116726080730, guid: 0562d9ff73e2d8149829723d35d9729d, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 4735402976945853155, guid: 40ad55f999b768b468a661f0ec716b00, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 265492908793789759, guid: 97c871cac6cf12a45982ae91f1286eba, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 3642400936002817554, guid: e0f635a87e0ca1b4ba19e4ce10f32c58, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 2051526382960142558, guid: b41883df1e91f444b94fd362177eba33, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 3887577725080362450, guid: 2d42c590edfeccf46bf8a924b4ce4bb4, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 4728182594161576612, guid: 0306c2aeaf98b9144a0a547d34aae62b, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 8877148420980764505, guid: 4caa6f4b7e8ca774eb46b2808f166c43, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 6480360314131349616, guid: 3719bbf31e99b8f4facbc7b314457cda, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 3789877016165206563, guid: d0b72818e83911c48a29c7b1cdccb52b, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 4588139603430925255, guid: 8d05f046e4566724681a2630b919f0db, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 6797268742402488802, guid: c028b9edbfab10544bc0074501786441, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 3270114921643249033, guid: bd34a00eecba8814ba80e9575dc7670d, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 2417852738843725082, guid: 478b813a6d88e9242875f25723d47de5, type: 3}
+    m_CardsCount: 3
+  - Card: {fileID: 7962456699134224212, guid: dec652cf23e3a444980c99903bd92d94, type: 3}
+    m_CardsCount: 3

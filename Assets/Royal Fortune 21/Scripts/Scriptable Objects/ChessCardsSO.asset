@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4cdc2be0c94495489a9c046c8d17a2b, type: 3}
+  m_Name: ChessCardsSO
+  m_EditorClassIdentifier: 
+  Cards:
+  - Card: {fileID: 5497287165353143278, guid: b5517ace74fb024438f6948f82667990, type: 3}
+  - Card: {fileID: 7696692848925116167, guid: c1b84b36ba5d4e448909ceadc411d1c0, type: 3}
+  - Card: {fileID: 9006430062923652809, guid: 1e91cd433e936894ca39bde5a3bcf5fd, type: 3}
+  - Card: {fileID: 7570044697509639502, guid: be65637c85c2afc45afb8204e0131980, type: 3}
+  - Card: {fileID: 2297988375348586754, guid: ce3a62d9dcd6a784b9d3070e32e2c8c0, type: 3}
+  - Card: {fileID: 4921886558645675925, guid: 21a2e053a39693a48a66a5b75fc13f50, type: 3}
+  - Card: {fileID: 2841393354268973891, guid: 50c774bf575e51e41add240b282ccb48, type: 3}
+  - Card: {fileID: 4349686052810753649, guid: 03a95cf463473854bb6bfd2831e1dfc8, type: 3}
+  - Card: {fileID: 1080924521876543232, guid: ae7dae4019321d641bee8c13a107d185, type: 3}
+  - Card: {fileID: 5945466786362214583, guid: d16f1c9376ea7e3458046e060c3c455e, type: 3}
+  - Card: {fileID: 1443208243810724120, guid: 6123f5764d24f2041b6d62ac0005b960, type: 3}
+  - Card: {fileID: 8741749931211188757, guid: 8bb65410052b6364d8ab552752046b99, type: 3}
+  - Card: {fileID: 8094094380953522936, guid: 37b9d1fbceb520b4c9d3ef6014acb152, type: 3}
+  - Card: {fileID: 3706670962936477421, guid: e67ccbf314b8c0c49b677acf6e47b190, type: 3}
+  - Card: {fileID: 2880197689763478271, guid: 9dd36214155e5a343ab1a502f6b229a4, type: 3}
+  - Card: {fileID: 8237022493364454929, guid: ee4c48fa379820c4cb82378e27998996, type: 3}
+  - Card: {fileID: 3663076949806979630, guid: dcbbd624285a930479d7641cc2c3dfeb, type: 3}
+  - Card: {fileID: 8369689870391437988, guid: 9f0b8590cd1ce73468d5c12098f8860c, type: 3}

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Card
+  - Grid Point
+  - Grid Position
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GridPosition
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Table
+    uniqueID: 3221808573
+    locked: 0
+  - name: Card
+    uniqueID: 4248006041
+    locked: 0
+  - name: Dice
+    uniqueID: 3455342809
+    locked: 0
+  - name: Coin
+    uniqueID: 3642401629
+    locked: 0
+  - name: Invisible Panel
+    uniqueID: 544073009
+    locked: 0
